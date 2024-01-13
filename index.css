@@ -1,0 +1,26 @@
+.container {
+  border: 1px solid red;
+  height: 50vh;
+  width: 20vw;
+  border-radius: 2.5%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 2px;
+}
+.screen {
+  border: 1px solid black;
+
+  width: 90%;
+  flex-grow: 1;
+}
+.buttons {
+  border: 1px solid blue;
+
+  width: 90%;
+  flex-grow: 4;
+
+  margin-top: 5%;
+}
