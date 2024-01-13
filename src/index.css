@@ -1,6 +1,7 @@
 .container {
-  height: 40rem;
-  width: 25rem;
+  align-self: center;
+  height: 80vh;
+  width: 100%;
   border-radius: 2.5%;
   margin: auto;
   display: flex;
